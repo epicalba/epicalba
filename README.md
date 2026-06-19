@@ -8,5 +8,5 @@
 | **SQL Injection Master** | UNION/ERROR/BLIND/TIME-based инъекции, работа с БД, обход защиты, DIOS. | **[Codeby](https://codeby.school/)** |
 | **Python** | Автоматизация задач, работа со структурами данных, написание скриптов. | **[Codeby](https://codeby.school/)** |
 | **InfoWatch (DLP)** | Настройка Traffic Monitor/Device Monitor, создание политик защиты, работа в ОС Linux/Windows. | **[Infowatch](https://www.infowatch.ru/)** |
-| **Security Vision 5 ( SOAR )** | Установка, настройка, интеграция с SIEM, создание коннекторов и нормализация событий. | **[Securit Vision](https://www.securityvision.ru/)** |
+| **Security Vision 5 ( SOAR )** | Установка, настройка, интеграция с SIEM, создание коннекторов и нормализация событий. | **[Security Vision](https://www.securityvision.ru/)** |
 | **СДИ «Базис» ( Система докуменитрования инфраструктуры )** | Развертывание и конфигурирование средств защиты информации. | **[СДИ Базис](https://sdisoft.ru/)** |
