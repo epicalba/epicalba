@@ -1,16 +1,12 @@
-## Hi there 👋
+# Привет! Я epicalba 👋
+Мои сертификаты : 
 
-<!--
-**epicalba/epicalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Направление | Ключевые навыки | Образовательная платформа |
+| :--- | :--- | :--- |
+| **SOC Analyst L1** | Мониторинг, анализ логов (SIEM, KQL), MITRE ATT&CK, Cyber Kill Chain. | **[Inseca.Tech](https://inseca.tech/)** |
+| **WAPT ( Web Application Penetration Testing )** | Разведка (OSINT), фаззинг, SSTI/SSRF, клиентские атаки (XSS, CSRF), эскалация привилегий. | **[Codeby](https://codeby.school/)** |
+| **SQL Injection Master** | UNION/ERROR/BLIND/TIME-based инъекции, работа с БД, обход защиты, DIOS. | **[Codeby](https://codeby.school/)** |
+| **Python** | Автоматизация задач, работа со структурами данных, написание скриптов. | **[Codeby](https://codeby.school/)** |
+| **InfoWatch (DLP)** | Настройка Traffic Monitor/Device Monitor, создание политик защиты, работа в ОС Linux/Windows. | **[Infowatch](https://www.infowatch.ru/)** |
+| **Security Vision 5 ( SOAR )** | Установка, настройка, интеграция с SIEM, создание коннекторов и нормализация событий. | **[Securit Vision](https://www.securityvision.ru/)** |
+| **СДИ «Базис» ( Система докуменитрования инфраструктуры )** | Развертывание и конфигурирование средств защиты информации. | **[СДИ Базис](https://sdisoft.ru/)** |
