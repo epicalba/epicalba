@@ -10,3 +10,13 @@
 
 Отчет при выходе: Когда закрываешь приложение, оно само записывает в текстовый файл report.txt отчет с моим логином и точным временем входа и выхода.
 
+<img width="652" height="176" alt="Screenshot 2026-10-13 150632" src="https://github.com/user-attachments/assets/efeeb4f5-9048-42a9-aaba-2e6f28be620d" />
+
+<img width="1257" height="699" alt="Screenshot 2026-10-13 144622" src="https://github.com/user-attachments/assets/82deca48-e49a-4cca-a208-ef74ae17762c" />
+
+<img width="486" height="194" alt="Screenshot 2026-10-13 144638" src="https://github.com/user-attachments/assets/c8cae587-d19c-45f0-bcc0-85465eccfd99" />
+
+<img width="1261" height="709" alt="Screenshot 2026-10-13 144553" src="https://github.com/user-attachments/assets/3707af39-1040-4725-b983-a110511788ef" />
+
+
+
